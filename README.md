@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @DmitriSelianov99
-- 👀 I’m interested in HTML/CSS/JavaScript
-- 🌱 I’m currently learning what I'm interested lol
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me IG: @from_student_to_programmer
+- 👋 Привет, я @DmitriSelianov99.
+- 👨‍💻 Я iOS-разработчик. 
+- 👻 В моем GitHub аккаунте вы можете найти приложения, которые я делаю для портфолио/
+- 📪 Открыт к любым предложениям и сотрудничеству/
+- ✉️ Контакты для связи(Телеграм): @appplodismenti
+
+---
+
+- 👋 Hi, I’m @DmitriSelianov99.
+- 👨‍💻 I am an iOS developer. 
+- 👻 In my GitHub account you can find the applications that I make for the portfolio.
+- 📪 I am open to any suggestions and cooperation.
+- ✉️ Contacts for communication(Telegram): @appplodismenti
 
 <!---
 DmitriSelianov99/DmitriSelianov99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
