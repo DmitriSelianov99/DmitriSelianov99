@@ -14,6 +14,7 @@
  - Realm / UserDefaults / CoreData / Firebase
  - URLSession
  - LocalNotifications
+ - CoreML
 
 ---
 
@@ -33,6 +34,7 @@ I am currently looking for a job as an iOS developer
  - Realm / UserDefaults / CoreData / Firebase
  - URLSession
  - LocalNotifications
+ - CoreML
 
 <!---
 DmitriSelianov99/DmitriSelianov99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
