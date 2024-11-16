@@ -11,7 +11,7 @@
 💪 Мои навыки (_данные потихоньку дополняются_):
  - SwiftUI / UIKit
  - MVC/ MVVM
- - Realm/ UserDefaults / CoreData
+ - Realm / UserDefaults / CoreData / Firebase
  - URLSession
  - LocalNotifications
 
@@ -30,7 +30,7 @@ I am currently looking for a job as an iOS developer
 💪 My skills (_skills are slowly being supplemented_)
 - SwiftUI / UIKit
  - MVC/ MVVM
- - Realm/ UserDefaults / CoreData
+ - Realm / UserDefaults / CoreData / Firebase
  - URLSession
  - LocalNotifications
 
