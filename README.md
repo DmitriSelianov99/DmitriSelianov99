@@ -10,7 +10,7 @@
 
 💪 Мои навыки (_данные потихоньку дополняются_):
  - SwiftUI / UIKit
- - MVC/ MVVM
+ - MVC / MVVM
  - Realm / UserDefaults / CoreData / Firebase
  - URLSession
  - LocalNotifications
@@ -28,9 +28,9 @@
 In 2023, I came to the conclusion that I don't want to be just an application user, but I want to be their creator. This helped to get acquainted with the Swift language. 
 I am currently looking for a job as an iOS developer
 
-💪 My skills (_skills are slowly being supplemented_)
+💪 My skills (_skills are being supplemented_)
 - SwiftUI / UIKit
- - MVC/ MVVM
+ - MVC / MVVM
  - Realm / UserDefaults / CoreData / Firebase
  - URLSession
  - LocalNotifications
