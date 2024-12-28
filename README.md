@@ -6,7 +6,8 @@
 
 ### ✨Немного обо мне и моих целях
 В 2023 году я пришел к тому, что не хочу быть просто пользователем приложений, а хочу быть их создателем. Это и поспособствовало знакомству с языком Swift. 
-Сейчас я ищу работу iOS-разработчика
+Сейчас я ищу работу iOS-разработчика.
+Также на данный момент я разрабатываю игру, чтобы выложить свой первый проект в AppStore 😅
 
 💪 Мои навыки (_данные потихоньку дополняются_):
  - SwiftUI / UIKit
@@ -26,7 +27,8 @@
 
 ### ✨A little bit about me and my goals
 In 2023, I came to the conclusion that I don't want to be just an application user, but I want to be their creator. This helped to get acquainted with the Swift language. 
-I am currently looking for a job as an iOS developer
+I am currently looking for a job as an iOS developer.
+I'm also currently developing a game to upload my first project to the AppStore 😅
 
 💪 My skills (_skills are being supplemented_)
 - SwiftUI / UIKit
