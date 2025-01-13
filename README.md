@@ -16,6 +16,7 @@
  - URLSession
  - LocalNotifications
  - CoreML
+ - Combine
 
 ---
 
@@ -37,6 +38,7 @@ I'm also currently developing a game to upload my first project to the AppStore 
  - URLSession
  - LocalNotifications
  - CoreML
+ - Combine
 
 <!---
 DmitriSelianov99/DmitriSelianov99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
